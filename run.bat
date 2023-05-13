@@ -1,0 +1,1 @@
+pytest -s -v C:\Users\rravikumar\PycharmProjects\Framework_QuickBooks\Testcase -m "sanity"
